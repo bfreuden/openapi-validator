@@ -1,0 +1,1 @@
+{"version":3,"file":"SuperAgentResponse.d.ts","sourceRoot":"","sources":["../../lib/classes/SuperAgentResponse.ts"],"names":[],"mappings":"AAAA,OAAO,gBAAgB,MAAM,oBAAoB,CAAC;AAKlD,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,gBAAgB;IAC9D,OAAO,CAAC,kCAAkC,CAAU;gBAExC,GAAG,KAAA;IAUf,oBAAoB;IAUpB,OAAO;;;;CAOR"}
